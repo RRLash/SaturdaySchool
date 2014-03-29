@@ -5,4 +5,4 @@ SaturdaySchool
 
 #DESCRIPTION:  Saturday School learning GIT
 
-Did Emilio Esteves where a blue hooded sweatshir in the Breakfast Club?
+Did Emilio Esteves where a blue hooded sweatshirt in the Breakfast Club?
