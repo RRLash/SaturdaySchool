@@ -1,7 +1,8 @@
 SaturdaySchool
 ==============
 
-#Created by @RRLash
+~~#Created by @RRLash~~
+#Created by Ryan Lash and Shadrock
 
 #DESCRIPTION:  Saturday School learning GIT
 
